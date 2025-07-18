@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
-# 👋 ¡Hola, soy Gonzalo Alcaide Barbero
+# 👋 ¡Hola, soy Gonzalo Alcaide Barbero!
 
 🎓 Full-stack developer con formación en **DAM** y **DAW**  
 💻 Apasionado por la programación y el desarrollo de software  
